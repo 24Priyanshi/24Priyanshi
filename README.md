@@ -1,5 +1,7 @@
 <h1>Hi, I'm Priyanshi</h1>
 <p>I'm passionate about machine learning.</p>
+<img width="760" height="239" alt="readme" src="https://github.com/user-attachments/assets/5b6c8951-0c25-433a-afd5-f1b192a5c560" />
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
