@@ -1,7 +1,7 @@
 <h1>Hi, I'm Priyanshi!</h1>
 <p>I'm passionate about Machine Learning.</p>
 <img width="760" height="239" alt="readme" src="https://github.com/user-attachments/assets/5b6c8951-0c25-433a-afd5-f1b192a5c560" />
-[iHw1LQh](https://github.com/user-attachments/assets/c140a5f7-adaa-435c-8def-dea50c982b84)
+
 
 
 
